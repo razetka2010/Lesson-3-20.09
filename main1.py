@@ -7,5 +7,6 @@ print(animals)
 animals.insert(2, 'Лось') #число означает индекс куда впишется слово
 print(animals)
 
-print(len(animals)) #вывод скольно находится в массиве 
+print(len(animals)) #вывод скольно данных находится в массиве 
+
 print(animals)
